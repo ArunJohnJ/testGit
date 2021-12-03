@@ -1,0 +1,7 @@
+# compiled
+*.exe
+*.class
+
+# packages
+node_modules
+*.git
